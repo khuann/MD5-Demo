@@ -3,7 +3,7 @@
 //  HNNetworkMD5Demo
 //
 //  Created by 孔焕宁 on 2018/3/25.
-//  Copyright © 2018年 深圳市漫萌餐饮管理有限公司. All rights reserved.
+//  Copyright © 2018年 深圳市漫萌餐饮管理有限公司_孔焕宁_13411855114. All rights reserved.
 //
 
 #import "HNHomeViewController.h"
